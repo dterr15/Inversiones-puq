@@ -1,0 +1,98 @@
+---
+title: "Macro Regime Tracker: July SOFR"
+date: 2025-05-20
+url: https://www.capitalflowsresearch.com/p/macro-regime-tracker-july-sofr
+---
+
+_**The Macro Regime Tracker offers a daily lens on how shifts in growth, inflation, and liquidity affect short-term risk and reward. Leveraging machine learning, AI, and cross-asset data, it identifies macro changes and their impact on market positioning.**_
+
+*   Macro Regime Context
+    
+*   Macro Tear Sheets: Equities, Fixed Income, FX, Crypto, and Commodities
+    
+*   Macro Regime Dashboard: Excel spreadsheet for economic data and interest rates
+    
+*   Growth, Inflation, Fixed Income, Credit, and Equities Regime Tracker
+    
+*   AI and Machine Learning Strategies - Macro Regime and Positioning Premiums Strategies: S&P 500, 2-Year Interest Rates, Gold, and Bitcoin
+    
+
+Tensions for the bond view laid out here:
+
+**Main Developments In Macro**
+
+\*BOSTIC: US DOWNGRADE COULD HAVE A RIPPLE THROUGH THE ECONOMY
+
+\*BOSTIC: HAVE TO WAIT 3-6 MONTHS TO SEE HOW UNCERTAINTY SETTLES
+
+\*BOSTIC: IF TARIFF TRANSITION LONGER, MAY IMPACT CONS. BEHAVIOR
+
+\*BOSTIC: TREASURY MARKETS ARE STILL FUNCTIONING QUITE WELL
+
+\*ECB'S MULLER: CAN'T RULE OUT FURTHER INTEREST-RATE CUTS
+
+\*ECB'S MULLER: NEED CLEAR REASONS TO CUT SIGNIFICANTLY MORE
+
+\*ECB'S MULLER: NOT OBVIOUS WE MUST SIGNIFICANTLY LOWER RATES
+
+\*HASSETT: DEBT CEILING WILL GO UP WITH THE BIG BEAUTIFUL BILL
+
+\*HASSETT: WOULD NOT BE SURPRISED IF MORE TRADE DEALS THIS WEEK
+
+\*HASSETT:WE'LL KEEP CLOSE EYE ON WHAT THE CHINESE HAVE AGREED TO
+
+\*FED’S JEFFERSON DOESN’T COMMENT ON OUTLOOK FOR RATES, ECONOMY
+
+\*FED'S WILLIAMS SAYS ECONOMY CLOSE TO FULL EMPLOYMENT
+
+\*HASSETT: 15 COUNTRIES ARE CLOSE TO A TRADE DEAL
+
+\*WILLIAMS: MANY BUSINESSES IN A WAIT-AND-SEE MODE
+
+\*WILLIAMS: CORE US FIXED INCOME MARKETS FUNCTIONING WELL
+
+\*WILLIAMS: WILL TAKE TIME BEYOND JUNE, JULY FOR CLEARER OUTLOOK
+
+\*CHINA SAYS US UNDERMINES CONSENSUS REACHED IN GENEVA TALKS
+
+\*JEFFERSON: WE'RE FACING RISKS TO BOTH SIDES OF OUR MANDATE
+
+\*FED'S JEFFERSON: FED POLICY IS IN A VERY GOOD PLACE
+
+\*JEFFERSON: APPROPRIATE TO WAIT AND SEE HOW POLICIES EVOLVE
+
+\*JEFFERSON: MUST MAKE SURE ANY PRICE RISE NOT SUSTAINED INF.
+
+\*CHINA'S STATE BANKS WILL CUT DEPOSIT RATES ON TUESDAY: REUTERS
+
+\*DIMON: GOING TO ALLOW CLIENTS TO BUY BITCOIN, WON'T CUSTODY IT
+
+\*DIMON: I DO BELIEVE IN AMERICAN EXCEPTIONALISM, I'M A PATRIOT
+
+\*DIMON: NEVER BELIEVED EUROPE WAS AS BAD AS PEOPLE WERE SAYING
+
+\*DIMON: STILL THINK AMERICA'S ASSET PRICES ARE "KIND OF HIGH"
+
+\*TRUMP: 'SOME PROGRESS HAS BEEN MADE' AFTER CALL WITH PUTIN
+
+\*TRUMP SAYS HE SPENT 2.5 HOURS ON THE CALL WITH PUTIN
+
+\*TRUMP SLATED TO MEET HOUSE REPUBLICANS ON TUESDAY AT CAPITOL
+
+\*BOJ TO HEAR MARKET PLAYER OPINIONS ON JGB BUYING AMOUNT:NIKKEI
+
+\*BOJ MAY KEEP CURRENT JGB REDUCTION PLAN AFTER SPRING '26:NIKKEI
+
+\*TRUMP: US NOT STEPPING BACK FROM RUSSIA-UKRAINE TALKS
+
+\*TRUMP SAYS RUSSIA-UKRAINE TALKS AT VATICAN WOULD BE GREAT
+
+\*TRUMP ON CEASEFIRE: LET'S GET THIS THING GOING
+
+\*TRUMP: OF COURSE I ASKED PUTIN TO MEET WITH ME
+
+\*TRUMP: TOLD PUTIN, WHEN ARE WE GOING TO END THIS
+
+\*TRUMP SAYS TOLD PUTIN: 'GOT TO GET GOING'
+
+_**The Macro Regime Model offers a real-time view of growth, inflation, and yield curve dynamics, integrating these with credit market shifts, equity risk premiums, and positioning data. It connects upcoming catalysts to statistical drivers of asset prices, creating a unified framework that quantifies skew and clarifies risk-reward across asset classes.**_
