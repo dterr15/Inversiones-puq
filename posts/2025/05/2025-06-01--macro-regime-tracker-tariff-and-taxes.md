@@ -1,0 +1,66 @@
+---
+title: "Macro Regime Tracker: Tariff and Taxes"
+date: 2025-06-01
+url: https://www.capitalflowsresearch.com/p/macro-regime-tracker-tariff-and-taxes
+---
+
+_**The Macro Regime Tracker offers a daily lens on how shifts in growth, inflation, and liquidity affect short-term risk and reward. Leveraging machine learning, AI, and cross-asset data, it identifies macro changes and their impact on market positioning.**_
+
+*   Macro Regime Context
+    
+*   Macro Tear Sheets: Equities, Fixed Income, FX, Crypto, and Commodities
+    
+*   Macro Regime Dashboard: Excel spreadsheet for economic data and interest rates
+    
+*   Growth, Inflation, Fixed Income, Credit, and Equities Regime Tracker
+    
+*   AI and Machine Learning Strategies - Macro Regime and Positioning Premiums Strategies: S&P 500, 2-Year Interest Rates, Gold, and Bitcoin
+    
+
+See the note on Bitcoin here:
+
+And Real Estate here:
+
+**Main Developments In Macro**
+
+\*HASSETT: OPTIMISTIC WE'LL HAVE A DEAL WITH CHINA  
+\*HASSETT: HOPE TO MAKE PROGRESS WITH CHINA IN NEXT WEEK  
+\*HASSETT: TAX BILL DEFICIT CALCULATION DEPENDS ON GROWTH  
+\*WSJ SAYS US HAD ASKED CHINA TO RESUME RARE-EARTH EXPORTS  
+\*US-CHINA TRADE TRUCE RISKS FALLING APART OVER RARE-EARTHS: WSJ  
+\*TRUMP: OVER NEXT YEAR, AUTOMAKERS NEED WHOLE CAR BUILT IN USA  
+\*TRUMP: ALL MANUFACTURERS WILL BUILD THEIR PARTS IN THE US  
+\*TRUMP: WE SHOULD GET RID OF US DEBT LIMIT OR EXTEND IT  
+\*AKAZAWA: WILL WATCH DEVELOPMENTS OVER COURT RULING ON TARIFFS  
+\*AKAZAWA: JAPAN'S POSITION REMAINS UNCHANGED OVER TARIFFS  
+\*TRUMP: I HAVE GREAT SUPPORT ON THE TARIFFS  
+\*AKAZAWA: NOTHING DECIDED UNTIL EVERYTHING DECIDED IN DEAL  
+\*AKAZAWA: AGREED TO SPEED UP BILATERAL COORDINATION TOWARD G-7  
+\*AKAZAWA: ASKED FOR REVIEW OF TARIFFS STRONGLY  
+\*AKAZAWA: TALKED WITH BESSENT, LUTNICK ABOUT TRADE  
+\*TRUMP: IRAN DEAL POSSIBLE IN NOT TOO DISTANT FUTURE  
+\*TRUMP: CHANCE OF MAKING DEAL WITH IRAN  
+\*TRUMP: WE'LL CONTINUE CUTS 'SURGICALLY'  
+\*TRUMP: COMMITTED TO MAKING DOGE CUTS PERMANENT  
+\*TRUMP: BIDDING AIR TRAFFIC CONTROL SYSTEMS TO COMPANIES NOW  
+\*TRUMP: HAPPY WITH APPEALS DECISION YESTERDAY WITH TARIFFS  
+\*TRUMP: TARIFFS SO IMPORTANT  
+\*US PLANS WIDER CHINA TECH SANCTIONS WITH SUBSIDIARY CRACKDOWN  
+\*US REMOVES BARRIERS TO DOMESTIC BIOENERGY PRODUCTION: STATEMENT  
+\*DIMON: YOU ARE GOING TO SEE A CRACK IN THE BOND MARKET  
+\*DIMON: OF COURSE GOVERNMENT SHOULD TRY TO BE MORE EFFICIENT  
+\*DIMON: GET TAX BILL DONE, THEN FOCUS ON OTHER GROWTH LEVERS  
+\*DIMON: US ALSO SHOULDN'T ALLOW FOR MUCH SALT DEDUCTIONS  
+\*DIMON: US SHOULD \`ABSOLUTELY' BE TAXING CARRIED INTEREST  
+\*JAPAN SAYS TO HOLD TALKS WITH US AGAIN BEFORE G-7 IN JUNE  
+\*JAPAN SAYS CONFIRMED PROGRESS WITH US IN TRADE TALKS  
+\*MILLER: GREER, LUTNICK TO PROVIDE DETAILS ON CHINA  
+\*MILLER: CHINA DIDN'T FULFILL OBLIGATIONS MADE TO THE US  
+\*JAPAN GOVT RELEASES STATEMENT ON TRADE TALKS  
+\*JAPAN'S AKAZAWA STRONGLY ASKED US TO RECONSIDER TARIFF POLICY  
+\*MILLER: CHINA SHOULD SEEK PATH OF COOPERATION  
+\*MILLER: WILL STOP CHINA'S 'ESPIONAGE' WITH US STUDENT VISAS  
+\*MILLER: WON'T ALLOW CHINA TO TAKE MANUFACTURING CAPACITY FROM US  
+\*MILLER: US HAS MANY OPTIONS TO HOLD CHINA ACCOUNTABLE
+
+_**The Macro Regime Model offers a real-time view of growth, inflation, and yield curve dynamics, integrating these with credit market shifts, equity risk premiums, and positioning data. It connects upcoming catalysts to statistical drivers of asset prices, creating a unified framework that quantifies skew and clarifies risk-reward across asset classes.**_
