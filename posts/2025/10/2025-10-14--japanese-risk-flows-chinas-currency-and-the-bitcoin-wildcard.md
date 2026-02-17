@@ -1,0 +1,13 @@
+---
+title: "Japanese Risk Flows, China's Currency, and The Bitcoin Wildcard"
+date: 2025-10-14
+url: https://www.capitalflowsresearch.com/p/japanese-risk-flows-chinas-currency
+---
+
+Global liquidity operates as a constantly evolving ecosystem of flows between agents, each adapting their actions and balance sheets in response to changing incentives, yields, and macro structures. Central banks, sovereigns, corporations, households, and shadow financial intermediaries all act as origin points of liquidity creation, whether through credit expansion, monetary accommodation, or capital account surpluses. Yet, these sources are not static. They shift as global conditions change, when the U.S. Treasury runs larger deficits, when Japanese institutions repatriate funds, or when Chinese credit cycles tighten. Each of these actions redefines the direction and magnitude of global liquidity. The financial system continuously re-prices this movement through interest rates and FX markets, which act as the real-time processors of global funding conditions and cross-border capital flows. The result is a nonequilibrium system, one perpetually in motion and never resting in balance.
+
+Capital seeks the highest returns adjusted for credit and duration risk, constantly traversing borders and asset classes in pursuit of yield. When U.S. real yields rise, liquidity is drawn from emerging markets and speculative assets; when policy easing compresses term premiums, liquidity cascades outward along the risk curve into equities, credit, and commodities. These flows function as feedback mechanisms: capital allocation shifts prices, altering relative attractiveness, and prompting new waves of repositioning. FX markets, in particular, serve as the global clearing price of liquidity imbalances, translating domestic monetary conditions into international financial terms. The global liquidity system, therefore, is not a static pool but a dynamic, self-reinforcing network that reconfigures itself around changes in rates, spreads, and expected returns. It is the complexity of these adaptive agents and feedback loops that drives the continual formation and dissolution of global financial regimes.
+
+In this report, I am going to explain the cross-border mechanics for China and Japan that are directly connected to FX, equities, and Bitcoin. I will then use this framework to explain WHERE we are with positioning as we move into FOMC.
+
+There are two main ideas you need to know when thinking about how China and Japan connect to the US and macro liquidity:
