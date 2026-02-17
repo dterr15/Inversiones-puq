@@ -1,0 +1,65 @@
+---
+title: "Macro Regime Tracker: Bessent vs China"
+date: 2025-04-30
+url: https://www.capitalflowsresearch.com/p/macro-regime-tracker-bessent-vs-china
+---
+
+_**The Macro Regime Tracker offers a daily lens on how shifts in growth, inflation, and liquidity affect short-term risk and reward. Leveraging machine learning, AI, and cross-asset data, it identifies macro changes and their impact on market positioning.**_
+
+*   Macro Regime Context
+    
+*   Macro Tear Sheets: Equities, Fixed Income, FX, Crypto, and Commodities
+    
+*   Macro Regime Dashboard: Excel spreadsheet for economic data and interest rates
+    
+*   Growth, Inflation, Fixed Income, Credit, and Equities Regime Tracker
+    
+*   AI and Machine Learning Strategies - Macro Regime and Positioning Premiums Strategies: S&P 500, 2-Year Interest Rates, Gold, and Bitcoin
+    
+
+See macro views and model explanation laid out here:
+
+**Main Developments In Macro**
+
+\*CHINA: WILLING TO DEVELOP RELATIONS WITH CANADA WITH RESPECT  
+\*CHINA: TARIFF WAR WAS LAUNCHED BY THE US  
+\*CHINA: IF US WANTS A RESOLUTION IT SHOULD STOP MAKING THREATS  
+\*CHINA: US SHOULD SEEK DIALOGUE WITH CHINA ON TARIFFS  
+\*INDIA, US BILATERAL TRADE PACT TALKS MAKE POSITIVE PROGRESS  
+\*INDIA COMMERCE MINISTRY COMMENTS ON US TRADE TALKS IN STATEMENT  
+\*INDIA, US OFFICIALS DISCUSS TARIFF, NON-TARIFF MATTERS: GOVT  
+\*US MARCH GOODS TRADE DEFICIT $162.0B; EST. -$145.0B  
+\*US PRELIM MARCH WHOLESALE INVENTORIES RISE 0.5%; EST. +0.6%  
+\*BESSENT: WILL SPEAK TO 17 TRADE PARTNERS OVER NEXT FEW WEEKS  
+\*BESSENT: WILL SEE TARIFF REVENUE IMPACT IN UPCOMING TAX BILL  
+\*BESSENT: TARIFFS ARE UNSUSTAINABLE FOR CHINA  
+\*BESSENT: DON'T EXPECT SUPPLY SHOCKS  
+\*BESSENT: US HAS HAD SUBSTANTIAL TALKS WITH JAPAN  
+\*BESSENT: VERY CLOSE ON TRADE DEAL WITH INDIA  
+\*LUTNICK: 10% TARIFF IS 'VIRTUALLY' NOT GOING TO CHANGE PRICES  
+\*LUTNICK SAYS HE HAS TRADE DEAL PENDING APPROVAL  
+\*LUTNICK SAYS HE WON'T NAME COUNTRY HE NEARLY HAS DEAL WITH  
+\*LUTNICK: MARKETS ARE GETTING TARIFF IMPACT WRONG  
+\*LUTNICK: THE PURPOSE OF TRADE DEALS IS TO DRIVE US EXPORTS  
+\*LUTNICK: TRUMP IS NOT FOCUSED ON MARKETS  
+\*TRUMP TO UNVEIL MORE TARIFF RELIEF DURING TRIP TO MICHIGAN: FT  
+\*TRUMP: CHINA WILL PROBABLY EAT THOSE TARIFFS  
+\*TRUMP SPEAKS IN CLIP OF ABC INTERVIEW AIRING TONIGHT  
+\*TRUMP REITERATES CHINA, EU RIPPED THE US OFF  
+\*TRUMP: I DON'T THINK HARD TIMES ARE AHEAD, GREAT TIMES AHEAD  
+\*BESSENT REPEATS TARIFFS ARE 'UNSUSTAINABLE' ON CHINA'S SIDE  
+\*CARNEY SAYS TRUMP AGREED TO MEET IN PERSON IN NEAR FUTURE  
+\*CARNEY: TRUMP AGREED ON WORKING TOGETHER AS SOVEREIGN STATES  
+\*TRUMP: WILL BLAME DEMOCRATS IF TAX CUT NOT APPROVED IN CONGRESS  
+\*TRUMP BEGINS SPEECH IN MICHIGAN, MARKING 100 DAYS IN OFFICE  
+\*TRUMP: A LOT OF AUTO JOBS, COMPANIES COMING IN BY TENS  
+\*TRUMP: WE LIKE LOW INTEREST RATES  
+\*TRUMP: FED PERSON NOT REALLY DOING A GOOD JOB  
+\*TRUMP: INDIA, FRANCE, CHINA OFFICIALS COMING TO MAKE DEAL  
+\*TRUMP: WE'RE GOING TO MAKE FAIR DEAL WITH CHINA ON TRADE  
+\*TRUMP: APPLE IS A GREAT COMPANY  
+\*TRUMP PRAISES ANNOUNCED INVESTMENTS FROM NVIDIA, TSMC, AMAZON  
+\*TRUMP: WE'LL PASS TAX CUTS IN COMING WEEKS AND MONTHS  
+\*TRUMP: BILL WILL BE THE BIGGEST EVER PASSED IN US HISTORY
+
+_**The Macro Regime Model offers a real-time view of growth, inflation, and yield curve dynamics, integrating these with credit market shifts, equity risk premiums, and positioning data. It connects upcoming catalysts to statistical drivers of asset prices, creating a unified framework that quantifies skew and clarifies risk-reward across asset classes.**_
